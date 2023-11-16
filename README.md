@@ -1,4 +1,6 @@
-### [Fishing](https://tenor.com/view/fishing-rod-snap-cast-fish-fail-gif-17119887.gif)
+This is a funny gif:
+
+![fishing-rod-snap](https://github.com/Jzcob/jzcob/assets/50559088/8a1cc989-d243-4107-82b5-af9a05e84434)
 
 - 😄 Pronouns: He/Him/His
 - I really like making discord bots
