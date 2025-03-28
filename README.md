@@ -6,4 +6,3 @@ This is a funny gif:
 - I really like making discord bots
 - Discord: `jzcob` (if you add me please say something like "Hey I found you from github" or something)
 -  I like watching hockey and I love the Bruins
-- dont question my amount of commits my laptop is bad so I use a server to run my bots D:
